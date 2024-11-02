@@ -3,6 +3,9 @@
   "version": "1.4.2",
   "description": "A simple WhatsApp user bot written in JavaScript using the Baileys library. This bot can interact with groups and normal messages. ",
   "main": "index.js",
+  "engines": {
+    "node": "20.x"
+  },
   "scripts": {
     "test": "node index.js",
     "start": "npx pm2 start . --attach --name kord-ai",
