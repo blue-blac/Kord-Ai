@@ -3,7 +3,7 @@ global.settings = {
     OWNER_NAME: '𝗘𝗞𝗦𝗨 𝗛𝗼𝗺𝗲𝘀 & 𝗣𝗿𝗼𝗽𝗲𝗿𝘁𝗶𝗲𝘀', // desired name
     BOT_NAME: "𝗘𝗞𝗦𝗨 𝗛𝗼𝗺𝗲𝘀 & 𝗣𝗿𝗼𝗽𝗲𝗿𝘁𝗶𝗲𝘀", // desired name
     VERSION: 'V1.0.0',
-    SESSION_ID: 'kord_ai-67290d03685f03dd811ffa44', //put your session id between ''
+    SESSION_ID: 'kord_ai-672f021011f1933ab8b7f0fb', //put your session id between ''
     MONGO_DB_URL: 'mongodb+srv://miracle32669:Iyanu1234@cluster0.m7glm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
     WORK_MODE: "Public",
     TIME_ZONE: "Africa/Lagos",
