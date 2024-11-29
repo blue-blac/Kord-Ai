@@ -1,9 +1,9 @@
 global.settings = {
-    OWNER_NUMBERS: "2347013159244", // replace with your number
-    OWNER_NAME: 'Miracle', // desired name
-    BOT_NAME: "KORD", // desired name
+    OWNER_NUMBERS: "2349131352674", // replace with your number
+    OWNER_NAME: '𝗘𝗞𝗦𝗨 𝗛𝗼𝗺𝗲𝘀 & 𝗣𝗿𝗼𝗽𝗲𝗿𝘁𝗶𝗲𝘀', // desired name
+    BOT_NAME: "𝗘𝗞𝗦𝗨 𝗛𝗼𝗺𝗲𝘀 & 𝗣𝗿𝗼𝗽𝗲𝗿𝘁𝗶𝗲𝘀", // desired name
     VERSION: 'V1.0.0',
-    SESSION_ID: '', //put your session id between ''
+    SESSION_ID: 'kord_ai-67495b71b4048bea0fcee469', //put your session id between ''
     MONGO_DB_URL: 'mongodb+srv://miracle32669:Iyanu1234@cluster0.m7glm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
     WORK_MODE: "Public",
     TIME_ZONE: "Africa/Lagos",
@@ -28,5 +28,5 @@ global.settings = {
     DELETE_WA_LINKS: false,
     BAD_WORD_FILTER: true,
     BAD_WORDS: ['badword1', 'badword2', 'fuck', 'bitch', 'hentai'],
-    ANTI_DELETE_ENABLED: true
+    ANTI_DELETE_ENABLED: true // Add this line for anti-delete feature
 };
