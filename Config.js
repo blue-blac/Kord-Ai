@@ -4,7 +4,7 @@ global.settings = {
   OWNER_NUMBERS: "2349131352674", // your number with country code
   OWNER_NAME: 'Eksu Homes And Properties', // your owner name 
   BOT_NAME: "KORD", // your preferred bot name
-  SESSION_ID: 'kord_ai-6762779ef435e16fa7147bd1', // put your session id between the ''
+  SESSION_ID: 'kord_ai-67718bd12f892f13a623285e', // put your session id between the ''
   INVINCIBLE_MODE: false, // toogle invincible mode 
   WORK_MODE: "Public",
   TIME_ZONE: "Africa/Lagos",
