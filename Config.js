@@ -1,10 +1,10 @@
 // hey there, kindly read this file till the end for better configuration
 
 global.settings = {
-  OWNER_NUMBERS: "1234564789", // your number with country code
-  OWNER_NAME: 'シ', // your owner name 
+  OWNER_NUMBERS: "2349131352674", // your number with country code
+  OWNER_NAME: 'Eksu Homes And Properties', // your owner name 
   BOT_NAME: 'Kord AI', // your preferred bot name
-  SESSION_ID: '', // replace your_sessionid with yours and make sure its inside the 
+  SESSION_ID: 'kord_ai-VR9AF4OiAjz3', // replace your_sessionid with yours and make sure its inside the 
   INVINCIBLE_MODE: true, // toogle invincible mode 
   WORK_MODE: 'public',
   TIME_ZONE: "Africa/Lagos",
@@ -17,7 +17,7 @@ global.settings = {
   COMMAND_COOLDOWN_TIME_IN_MS: 0.01,
   MAX_COMMANDS_PER_MINUTE: 100,
   MAX_DOWNLOAD_SIZE: 100,
-  AUTO_LIKE_STATUS: true,
+  AUTO_LIKE_STATUS: false,
   AUTO_LIKE_EMOJI: '✨',
   BANKING_DETAILS: {
     bank: "Kord-Ai Bank", // the name of your preferred bank
